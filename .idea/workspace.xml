@@ -1,0 +1,151 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="95fcc3c9-f275-470b-b93f-4d9321d642b7" name="Default Changelist" comment="Test push">
+      <change afterPath="$PROJECT_DIR$/.idea/VRPO.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/VRPO/Assets/Samples.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/VRPO/Assets/Samples/XR Interaction Toolkit.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/VRPO/Assets/Samples/XR Interaction Toolkit/2.0.0-pre.6.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/VRPO/Assets/Samples/XR Interaction Toolkit/2.0.0-pre.6/Default Input Actions.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/VRPO/Assets/Samples/XR Interaction Toolkit/2.0.0-pre.6/Default Input Actions/.sample.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/VRPO/Assets/Samples/XR Interaction Toolkit/2.0.0-pre.6/Default Input Actions/XRI Default Continuous Move.preset" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/VRPO/Assets/Samples/XR Interaction Toolkit/2.0.0-pre.6/Default Input Actions/XRI Default Continuous Move.preset.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/VRPO/Assets/Samples/XR Interaction Toolkit/2.0.0-pre.6/Default Input Actions/XRI Default Continuous Turn.preset" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/VRPO/Assets/Samples/XR Interaction Toolkit/2.0.0-pre.6/Default Input Actions/XRI Default Continuous Turn.preset.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/VRPO/Assets/Samples/XR Interaction Toolkit/2.0.0-pre.6/Default Input Actions/XRI Default Input Actions.inputactions" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/VRPO/Assets/Samples/XR Interaction Toolkit/2.0.0-pre.6/Default Input Actions/XRI Default Input Actions.inputactions.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/VRPO/Assets/Samples/XR Interaction Toolkit/2.0.0-pre.6/Default Input Actions/XRI Default Left Controller.preset" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/VRPO/Assets/Samples/XR Interaction Toolkit/2.0.0-pre.6/Default Input Actions/XRI Default Left Controller.preset.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/VRPO/Assets/Samples/XR Interaction Toolkit/2.0.0-pre.6/Default Input Actions/XRI Default Right Controller.preset" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/VRPO/Assets/Samples/XR Interaction Toolkit/2.0.0-pre.6/Default Input Actions/XRI Default Right Controller.preset.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/VRPO/Assets/Samples/XR Interaction Toolkit/2.0.0-pre.6/Default Input Actions/XRI Default Snap Turn.preset" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/VRPO/Assets/Samples/XR Interaction Toolkit/2.0.0-pre.6/Default Input Actions/XRI Default Snap Turn.preset.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/VRPO/Assets/Scenes.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/VRPO/Assets/Scenes/MainScene.scenetemplate" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/VRPO/Assets/Scenes/MainScene.scenetemplate.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/VRPO/Assets/Scenes/MainScene.unity" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/VRPO/Assets/Scenes/MainScene.unity.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/VRPO/Assets/XR.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/VRPO/Assets/XR/Loaders.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/VRPO/Assets/XR/Loaders/Oculus Loader.asset" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/VRPO/Assets/XR/Loaders/Oculus Loader.asset.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/VRPO/Assets/XR/Loaders/Open XR Loader No Pre Init.asset" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/VRPO/Assets/XR/Loaders/Open XR Loader No Pre Init.asset.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/VRPO/Assets/XR/Loaders/Open XR Loader.asset" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/VRPO/Assets/XR/Loaders/Open XR Loader.asset.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/VRPO/Assets/XR/Settings.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/VRPO/Assets/XR/Settings/Oculus Settings.asset" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/VRPO/Assets/XR/Settings/Oculus Settings.asset.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/VRPO/Assets/XR/Settings/Open XR Package Settings.asset" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/VRPO/Assets/XR/Settings/Open XR Package Settings.asset.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/VRPO/Assets/XR/Settings/OpenXR Editor Settings.asset" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/VRPO/Assets/XR/Settings/OpenXR Editor Settings.asset.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/VRPO/Assets/XR/XRGeneralSettings.asset" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/VRPO/Assets/XR/XRGeneralSettings.asset.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/VRPO/Assets/XRI.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/VRPO/Assets/XRI/Settings.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/VRPO/Assets/XRI/Settings/Resources.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/VRPO/Assets/XRI/Settings/Resources/InteractionLayerSettings.asset" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/VRPO/Assets/XRI/Settings/Resources/InteractionLayerSettings.asset.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/VRPO/Assets/XRI/Settings/XRInteractionEditorSettings.asset" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/VRPO/Assets/XRI/Settings/XRInteractionEditorSettings.asset.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/VRPO/Packages/manifest.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/VRPO/Packages/packages-lock.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/VRPO/ProjectSettings/AudioManager.asset" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/VRPO/ProjectSettings/ClusterInputManager.asset" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/VRPO/ProjectSettings/DynamicsManager.asset" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/VRPO/ProjectSettings/EditorBuildSettings.asset" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/VRPO/ProjectSettings/EditorSettings.asset" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/VRPO/ProjectSettings/GraphicsSettings.asset" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/VRPO/ProjectSettings/InputManager.asset" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/VRPO/ProjectSettings/MemorySettings.asset" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/VRPO/ProjectSettings/NavMeshAreas.asset" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/VRPO/ProjectSettings/PackageManagerSettings.asset" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/VRPO/ProjectSettings/Physics2DSettings.asset" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/VRPO/ProjectSettings/PresetManager.asset" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/VRPO/ProjectSettings/ProjectSettings.asset" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/VRPO/ProjectSettings/ProjectVersion.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/VRPO/ProjectSettings/QualitySettings.asset" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/VRPO/ProjectSettings/SceneTemplateSettings.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/VRPO/ProjectSettings/TagManager.asset" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/VRPO/ProjectSettings/TimeManager.asset" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/VRPO/ProjectSettings/TimelineSettings.asset" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/VRPO/ProjectSettings/UnityConnectSettings.asset" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/VRPO/ProjectSettings/VFXManager.asset" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/VRPO/ProjectSettings/VersionControlSettings.asset" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/VRPO/ProjectSettings/XRPackageSettings.asset" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/VRPO/ProjectSettings/XRSettings.asset" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/VRPO/ProjectSettings/boot.config" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/VRPO/UserSettings/EditorUserSettings.asset" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/VRPO/UserSettings/Layouts/default-2021.dwlt" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="24eHZLeSyjD0YV4TQCT7dWTd7pA" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="vcs.Git" />
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="95fcc3c9-f275-470b-b93f-4d9321d642b7" name="Default Changelist" comment="" />
+      <created>1643984188093</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1643984188093</updated>
+    </task>
+    <task id="LOCAL-00001" summary="Test push">
+      <created>1643987191753</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1643987191753</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="FILTERS">
+                <map>
+                  <entry key="branch">
+                    <value>
+                      <list>
+                        <option value="origin/main" />
+                      </list>
+                    </value>
+                  </entry>
+                </map>
+              </option>
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Test push" />
+    <option name="LAST_COMMIT_MESSAGE" value="Test push" />
+  </component>
+</project>
